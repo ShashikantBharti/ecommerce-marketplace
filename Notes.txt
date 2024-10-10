@@ -1,0 +1,11 @@
+Description: A full-featured e-commerce application where users can browse products, add them to the cart, and check out.
+Key Features:
+
+Product search, filtering, and sorting (by category, price, etc.).
+Shopping cart functionality with real-time updates.
+User authentication (JWT) for user-specific features.
+Payment gateway integration (e.g., Stripe, PayPal).
+Admin panel to manage products, users, and orders.
+MongoDB database for storing user and product information.
+Frontend with React, backend with Node.js and Express.
+Tech Stack: MongoDB, Express.js, React.js, Node.js (MERN), Redux for state management, Stripe for payments.

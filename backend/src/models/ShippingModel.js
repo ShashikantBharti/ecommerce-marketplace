@@ -1,0 +1,1 @@
+// This model will manage shipping details for orders

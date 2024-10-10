@@ -1,0 +1,1 @@
+// This model will handle all product-related data, including the vendor who sells the product.
